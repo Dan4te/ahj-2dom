@@ -1,0 +1,1 @@
+(()=>{"use strict";new class{constructor(e){this.cell=e.querySelectorAll(".grid-cell"),this.icon=e.querySelector(".icon")}getRandomPosition(){let e=0,t=0;setInterval((()=>{for(;t===e;)t=Math.floor(Math.random()*(this.cell.length-1));e=t,this.cell[t].appendChild(this.icon)}),1e3)}}(document.querySelector(".grid-container")).getRandomPosition()})();
