@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "2. DOM"
 
-[![Build status](https://ci.appveyor.com/api/projects/status/2h6tata5p2n0onrr?svg=true)](https://ci.appveyor.com/project/Dan4te/ahj-2dom)     [GitHub Pages]()
+[![Build status](https://ci.appveyor.com/api/projects/status/2h6tata5p2n0onrr?svg=true)](https://ci.appveyor.com/project/Dan4te/ahj-2dom)     [GitHub Pages](https://dan4te.github.io/ahj-2dom/)
 
 
 Правила сдачи задания:
